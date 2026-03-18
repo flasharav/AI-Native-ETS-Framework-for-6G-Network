@@ -66,3 +66,22 @@ The work combines **network simulation (NS-3)** and **conceptual 6G modeling (MA
 ├── qoe-analysis/
 ├── docs/
 └── README.md
+
+
+---
+
+##  Contributors  
+- **Arav Upadhyay**  
+
+---
+
+##  References  
+- Hexa-X II Research Initiative  
+- Next Generation Alliance (Next G Alliance)  
+- 3GPP Documentation  
+- Recent 6G Research Papers  
+
+---
+
+##  Acknowledgment  
+This project is part of a **B.Tech Electronics & Telecommunication Engineering** curriculum, focusing on emerging technologies in **6G communication systems**.
